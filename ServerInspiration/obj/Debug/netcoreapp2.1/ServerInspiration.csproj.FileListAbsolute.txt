@@ -1,0 +1,14 @@
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\bin\Debug\netcoreapp2.1\ServerInspiration.deps.json
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\bin\Debug\netcoreapp2.1\ServerInspiration.runtimeconfig.json
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\bin\Debug\netcoreapp2.1\ServerInspiration.runtimeconfig.dev.json
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\bin\Debug\netcoreapp2.1\ServerInspiration.dll
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\bin\Debug\netcoreapp2.1\ServerInspiration.pdb
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.csprojAssemblyReference.cache
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.csproj.CoreCompileInputs.cache
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.RazorAssemblyInfo.cache
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.RazorAssemblyInfo.cs
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.AssemblyInfoInputs.cache
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.AssemblyInfo.cs
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.RazorTargetAssemblyInfo.cache
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.dll
+D:\Nemanja\Project\A Mobilno Server\ServerInspiration\ServerInspiration\obj\Debug\netcoreapp2.1\ServerInspiration.pdb
